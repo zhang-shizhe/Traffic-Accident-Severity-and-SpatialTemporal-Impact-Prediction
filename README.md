@@ -1,2 +1,2 @@
-# Traffic-Accident-Severity-and-Spatial-Temporal-Impact-Prediction
+# Traffic-Accident-Severity-and-SpatialTemporal-Impact-Prediction
 Master's thesis
